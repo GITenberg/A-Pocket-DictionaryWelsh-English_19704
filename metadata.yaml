@@ -1,0 +1,30 @@
+_repo: A-Pocket-DictionaryWelsh-English_19704
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, William
+    birthdate: 1749
+    deathdate: 1818
+    gutenberg_agent_id: '8826'
+    url: http://www.gutenberg.org/2009/agents/8826
+description: ''
+gutenberg_issued: '2006-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19704'
+  lccn: '47008100'
+language:
+- cy
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Dictionaries -- Welsh'
+- !lcsh 'Welsh language -- Dictionaries -- English'
+- !lcc 'PB'
+title: 'A Pocket Dictionary: Welsh-English'
+url: http://www.gutenberg.org/ebooks/19704
